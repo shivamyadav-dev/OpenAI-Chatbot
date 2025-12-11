@@ -25,7 +25,7 @@ A powerful, user-friendly chatbot application powered by OpenAI's GPT-4 and buil
 ### Prerequisites
 - Python 3.8+
 - OpenAI API key ([get one here](https://platform.openai.com/api-keys))
-- LangChain API key (optional, for monitoring)
+- LangChain API key (for monitoring)
 
 ### Installation
 
@@ -101,7 +101,7 @@ llm-openai-chatbot/
 - Pay-as-you-go pricing after free tier
 - See [pricing details](https://openai.com/pricing)
 
-### LangChain (Optional)
+### LangChain 
 - Free tier for development
 - Enhanced monitoring and debugging
 - [Sign up here](https://smith.langchain.com/)
